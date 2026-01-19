@@ -101,5 +101,7 @@
     "8CWDIF7WBS1D",
     "UOSJDAB01F2V"
   ],
-  "used_keys": {EMU0KXI8XWD0}
+  "used_keys": {
+    "EMU0KXI8XWD0": true
+  }
 }
